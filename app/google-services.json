@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "693404653019",
+    "firebase_url": "https://registroes-bb6b6.firebaseio.com",
+    "project_id": "registroes-bb6b6",
+    "storage_bucket": "registroes-bb6b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693404653019:android:c94fdc0390b9f529",
+        "android_client_info": {
+          "package_name": "com.example.josearias.bolbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693404653019-23bfvnd2b090jo6id09gf1v9mf1nmrnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGTZbyxQRMfiNq0bW_zB9GEMMBrj0-xI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

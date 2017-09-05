@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bolbo</string>
+
+    <string name="girl_ipsum">
+        Morbi posuere lorem nec elit dapibus, vitae accumsan mauris pellentesque.
+        Vestibulum a lobortis mi. Vestibulum lacinia molestie semper. Pellentesque
+        ultrices arcu lacus, interdum mollis nibh convallis ut. Aliquam sagittis
+        sem a lacus gravida, eu accumsan purus volutpat. Donec tempus, est id
+        tristique consectetur, lacus ligula dignissim turpis, cursus commodo turpis
+        libero in purus. Phasellus tempus gravida tempor.
+    </string>
+
+    <string name="list_view">List View</string>
+    <string name="recycler_view">Recycler View</string>
+    <string name="deleted">Deleted</string>
+    <string name="undo">UNDO</string>
+</resources>

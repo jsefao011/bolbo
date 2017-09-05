@@ -1,0 +1,7 @@
+#Mon Sep 04 21:19:26 COT 2017
+base.0=D\:\\Desarrollador\\android\\bolbo\\bolbo\\bolbo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_662b17ef0da65f2e7e04256062b45470c4ce088a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Desarrollador\\android\\bolbo\\bolbo\\bolbo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_57635812f3c773a10dcbce818e4048f2aa9a82ce\\classes.dex
+base.1=D\:\\Desarrollador\\android\\bolbo\\bolbo\\bolbo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_57635812f3c773a10dcbce818e4048f2aa9a82ce
+file.0=D\:\\Desarrollador\\android\\bolbo\\bolbo\\bolbo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_662b17ef0da65f2e7e04256062b45470c4ce088a\\classes.dex
